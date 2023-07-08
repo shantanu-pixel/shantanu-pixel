@@ -1,4 +1,4 @@
-
+![logo](https://github.com/shantanu-pixel/shantanu-pixel/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Shantanu Garain</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
