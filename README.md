@@ -1,6 +1,8 @@
 ![logo](https://github.com/shantanu-pixel/shantanu-pixel/blob/main/Banner.png)
-<h1 align="center">Hi 👋, I'm Shantanu Garain</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h1 align="center">About Me👋</h1>
+<h3 align="left">Hello !, I am Shantanu Garain (A passionate Software Developer from India) currently pursuing MCA from RCCIIT
+ I am Self-motivated, adaptable, problem-solving, good attitude person.
+ To continuously enhance my capability through the energy of learning and growing, to have a positive attitude in life, and to work in a growth-oriented organization that provides an opportunity to enhance the technical skills acquired and evolve as a working professional who grows along with the organization.</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/1f2b0c758369c054538b7881b5d700739f2c37d2201f60ea26ad9311a7f88487/68747470733a2f2f73747566662e636861726d2e73682f7668732f6578616d706c65732f6e656f66657463685f332e676966">
 
