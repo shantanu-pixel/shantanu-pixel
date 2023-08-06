@@ -1,6 +1,6 @@
 ![logo](https://github.com/shantanu-pixel/shantanu-pixel/blob/main/Banner.png)
 <h1 align="center">About Me👋</h1>
-<h3 align="left">Hello !, I am Shantanu Garain (A passionate Software Developer from India) currently pursuing MCA from RCCIIT
+<h3 align="left">Hello !, I am Shantanu Garain (A passionate Software Developer from India) who completed my MCA from RCC Institute Of Information Technology in the year of 2023.
  I am Self-motivated, adaptable, problem-solving, good attitude person.
  To continuously enhance my capability through the energy of learning and growing, to have a positive attitude in life, and to work in a growth-oriented organization that provides an opportunity to enhance the technical skills acquired and evolve as a working professional who grows along with the organization.</h3>
 
