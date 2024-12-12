@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shantanu-pixel&show_icons=true&locale=en" alt="shantanu-pixel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shantanu-pixel&" alt="shantanu-pixel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shantanu-pixel&show_icons=true" alt="shantanu-pixel" /></p>
 
 
 
