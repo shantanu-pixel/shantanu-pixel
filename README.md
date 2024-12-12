@@ -8,14 +8,8 @@
 <!-- Changed -->
 <!-- <img align="left" alt="cube" width="200px" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif"> -->
 <!---------------------------------------------------------------------------------------------------------------- -->
-<!-- <img align="right" alt="coding" width="200px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
+<img align="right" alt="coding" width="200px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<div style="display: flex; justify-content: right; align-items: center;">
-  <img alt="cube" width="200px" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
-  <img alt="coding" width="200px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</div>
-
-<!---------------------------------------------------------->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shantanu-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="shantanu-pixel" /> </p>
 
