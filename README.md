@@ -6,7 +6,7 @@
 
 <!-- <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/1f2b0c758369c054538b7881b5d700739f2c37d2201f60ea26ad9311a7f88487/68747470733a2f2f73747566662e636861726d2e73682f7668732f6578616d706c65732f6e656f66657463685f332e676966"> -->
 <!-- Changed -->
-<!-- <img align="left" alt="cube" width="200px" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif"> -->
+<img align="right" alt="cube" width="200px" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
 <!---------------------------------------------------------------------------------------------------------------- -->
 <img align="right" alt="coding" width="200px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
