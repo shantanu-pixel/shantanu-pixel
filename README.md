@@ -1,5 +1,6 @@
 ![logo](https://github.com/shantanu-pixel/shantanu-pixel/blob/main/Banner.png)
-<h1 align="center">About Me👋</h1>
+<!-- <h1 align="center">About Me👋</h1> -->
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=About+Me%F0%9F%91%8B)](https://git.io/typing-svg)</h1>
 <h3 align="left">Hello !, I am Shantanu Garain (A passionate Software Developer from India) who completed my MCA from RCC Institute Of Information Technology in the year of 2023.
  I am Self-motivated, adaptable, problem-solving, good attitude person.
  To continuously enhance my capability through the energy of learning and growing, to have a positive attitude in life, and to work in a growth-oriented organization that provides an opportunity to enhance the technical skills acquired and evolve as a working professional who grows along with the organization.</h3>
