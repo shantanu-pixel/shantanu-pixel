@@ -1,10 +1,7 @@
 ![logo](https://github.com/shantanu-pixel/shantanu-pixel/blob/main/Banner.png)
 <!-- <h1 align="center">About Me👋</h1> -->
 
-<div style="text-align: center;">
-        ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=About+Me%F0%9F%91%8B)
-    </div>
-<!-- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=About+Me%F0%9F%91%8B) -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=About+Me%F0%9F%91%8B)
 
 <h3 align="left">Hello !, I am Shantanu Garain (A passionate Software Developer from India) who completed my MCA from RCC Institute Of Information Technology in the year of 2023.
  I am Self-motivated, adaptable, problem-solving, good attitude person.
