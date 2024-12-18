@@ -30,7 +30,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shantanu-pixel&show_icons=true&locale=en" alt="shantanu-pixel" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats-dusky-xi.vercel.app?user=shantanu-pixel&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-dusky-xi.vercel.app?user=shantanu-pixel&theme=dark" alt="GitHub Streak" /></a>
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats-dusky-xi.vercel.app?user=shantanu-pixel&theme=dark)](https://git.io/streak-stats) -->
 
 <!-- <p><img align="center" src="https://streak-stats.demolab.com/?user=shantanu-pixel&show_icons=true" alt="shantanu-pixel" /></p> -->
 
